@@ -22,7 +22,7 @@ entregue), permitindo que os funcionários acompanhem o progresso e informem os
 clientes de forma precisa. Além disso, envia notificações automáticas para a cozinha e os 
 funcionários de serviço quando um pedido é atualizado ou concluído.
 
- - Gestão de Mesas e Reservas: A funcionalidade de gestão de mesas ajuda a 
+ - Gestão de Mesas: A funcionalidade de gestão de mesas ajuda a 
 organizar e otimizar o uso do espaço no restaurante. Com a visualização gráfica do layout 
 do restaurante, os funcionários podem ver quais mesas estão ocupadas ou disponíveis, 
 otimizando o uso do espaço disponível.
