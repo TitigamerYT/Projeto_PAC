@@ -4,6 +4,8 @@
 
 # Gestão de pedidos de um restaurante 
 
+![logofinal (1)](https://github.com/user-attachments/assets/74ffd766-6760-4659-8985-1c5936d52cfd)
+
 A nossa aplicação de gestão de pedidos de restaurante é uma solução abrangente e eficiente para otimizar as operações internas. Desenvolvida com o objetivo de
 facilitar o fluxo de trabalho dos funcionários, ela oferece uma experiência intuitiva e prática dentro do contexto do restaurante.
 
