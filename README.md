@@ -17,10 +17,7 @@ clientes de forma instantânea. Os funcionários podem registar novos pedidos
 diretamente na interface da aplicação, escolhendo itens do menu de forma intuitiva. Esta 
 funcionalidade também permite que os pedidos sejam modificados facilmente antes de 
 serem enviados para a cozinha, incluindo a adição ou remoção de itens e a alteração de 
-quantidades. A interface mostra o status atual de cada pedido (em preparação, pronto, 
-entregue), permitindo que os funcionários acompanhem o progresso e informem os 
-clientes de forma precisa. Além disso, envia notificações automáticas para a cozinha e os 
-funcionários de serviço quando um pedido é atualizado ou concluído.
+quantidades. 
 
  - Gestão de Mesas: A funcionalidade de gestão de mesas ajuda a 
 organizar e otimizar o uso do espaço no restaurante. Com a visualização gráfica do layout 
